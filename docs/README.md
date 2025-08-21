@@ -10,6 +10,12 @@ Programming workshop for women.
 - Costs: none
 - Maximum amount of guests: none
 
+## Poster
+
+- [poster.pdf](poster.pdf)
+
+![Poster](poster.jpg)
+
 ## Publicity text
 
 === "🇸🇪"
